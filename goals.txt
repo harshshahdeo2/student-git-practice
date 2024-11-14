@@ -1,0 +1,8 @@
+My coding goals for this year:
+1. cpp
+2. dsa
+3. python
+
+Technical skills I want to learn:
+1. git
+2. docker
