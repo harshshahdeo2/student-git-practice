@@ -2,7 +2,9 @@ My coding goals for this year:
 1. cpp
 2. dsa
 3. python
+4. java script
 
 Technical skills I want to learn:
 1. git
 2. docker
+3. AWS
